@@ -7,10 +7,16 @@ La aplicación permite consultar el abecedario y jugar una sesión de juego dura
 Deberá seleccionar el cuadro de texto que corresponda a la letra en la imagen mostrada.
 
 ---
-
-**Pantalla Principal**
-
-![Main screen](/assets/1.png)
-
-**Consulta del lenguaje de señas**
-![Main screen](/assets/2.png)
+<div>
+<h3>App preview<h3/>
+<img align="left" src="assets/1.png" width="200">
+<div/> 
+<br/>
+<div>
+<h3>App preview<h3/>
+<img align="left" src="assets/2.png" width="200">
+<div/> 
+<div>
+<h3>App preview<h3/>
+<img align="left" src="assets/3.png" width="200">
+<div/> 
