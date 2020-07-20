@@ -11,12 +11,11 @@ Deberá seleccionar el cuadro de texto que corresponda a la letra en la imagen m
 <h3>App preview<h3/>
 <img align="left" src="assets/1.png" width="200">
 <div/> 
-<br/>
+
 <div>
-<h3>App preview<h3/>
 <img align="left" src="assets/2.png" width="200">
 <div/> 
+
 <div>
-<h3>App preview<h3/>
 <img align="left" src="assets/3.png" width="200">
 <div/> 
