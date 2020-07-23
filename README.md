@@ -18,7 +18,4 @@ Deberá seleccionar el cuadro de texto que corresponda a la letra en la imagen m
 
 <div>
 <img align="left" src="assets/3.png" width="200">
-<div/> 
-
----
-## Elecciones de diseño
+<div/>
