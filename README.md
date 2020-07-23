@@ -32,7 +32,7 @@ Open an issue if you are interested to help me improve this application and I wi
 
 ## Authors
 
-* **Billie Thompson** - Full Application - [m00nreal](https://github.com/m00nreal)
+* **Arel Jair Monreal Luna** - Full Application - [m00nreal](https://github.com/m00nreal)
 
 ## Acknowledgments
 
