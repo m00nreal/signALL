@@ -1,6 +1,6 @@
 # signALL
 
-signALL is an application developed with the purpose to teach signal language to children and adults. It achiveves it by a simple game where you need to match the corresponding letter to an image.
+signALL is an application developed with the purpose of teaching signal language to children and adults. It achiveves it by a simple game where you need to match the corresponding letter to an image.
 
 ## Getting Started
 
