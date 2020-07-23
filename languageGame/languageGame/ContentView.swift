@@ -9,7 +9,6 @@
 import SwiftUI
 
 struct ContentView: View {
-    let alphabet: [String] = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
     @State private var alertaInfo = false
     @State private var alertaAbout = false
     @State private var selection: String? = nil;
@@ -71,11 +70,6 @@ struct ContentView: View {
             .navigationBarTitle("Inicio", displayMode: .inline)
         }
 
-    }
-    
-    
-    func getRandom() -> Int {
-        return Int.random(in: 0...26)
     }
 }
 

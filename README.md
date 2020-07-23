@@ -38,3 +38,7 @@ Open an issue if you are interested to help me improve this application and I wi
 
 * All the youtube tutorials who taught me how to code this application in 2 days :)
 * iOS Apprentice Book
+
+## Documentation
+
+You can read the spanish documentation [here](/signALL.pdf)
